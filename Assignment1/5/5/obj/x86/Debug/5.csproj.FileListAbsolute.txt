@@ -1,0 +1,7 @@
+E:\Sem-4\C#\Assignment1\5\5\bin\Debug\5.exe
+E:\Sem-4\C#\Assignment1\5\5\bin\Debug\5.pdb
+E:\Sem-4\C#\Assignment1\5\5\obj\x86\Debug\_5.Form1.resources
+E:\Sem-4\C#\Assignment1\5\5\obj\x86\Debug\_5.Properties.Resources.resources
+E:\Sem-4\C#\Assignment1\5\5\obj\x86\Debug\5.csproj.GenerateResource.Cache
+E:\Sem-4\C#\Assignment1\5\5\obj\x86\Debug\5.exe
+E:\Sem-4\C#\Assignment1\5\5\obj\x86\Debug\5.pdb
